@@ -1,0 +1,44 @@
+{
+    "found": true,
+    "query": "職員",
+    "uri": "https://jisho.org/word/%E8%81%B7%E5%93%A1",
+    "tags": [
+        "Common word",
+        "JLPT N1",
+        "Wanikani level 23"
+    ],
+    "meanings": [
+        {
+            "seeAlsoTerms": [],
+            "sentences": [],
+            "definition": "staff member; employee; worker; personnel",
+            "supplemental": [],
+            "definitionAbstract": "",
+            "tags": [
+                "noun"
+            ]
+        },
+        {
+            "seeAlsoTerms": [],
+            "sentences": [],
+            "definition": "Official",
+            "supplemental": [],
+            "definitionAbstract": "An official is someone who holds an office (function or mandate, regardless whether it carries an actual working space with it) in an organization or government and participates in the exercise of authority (either his own or that of his superior and/or employer, public or legally private). A government official or functionary is an official who is involved in public administration or government, through either election, appointment, selection, or employment.",
+            "tags": [
+                "wikipedia definition"
+            ]
+        }
+    ],
+    "otherForms": [],
+    "audio": [
+        {
+            "uri": "https://d1vjc5dkcd3yh2.cloudfront.net/audio/03fd1eaabf59b66457bf83e21143ddf0.mp3",
+            "mimetype": "audio/mpeg"
+        },
+        {
+            "uri": "https://d1vjc5dkcd3yh2.cloudfront.net/audio_ogg/03fd1eaabf59b66457bf83e21143ddf0.ogg",
+            "mimetype": "audio/ogg"
+        }
+    ],
+    "notes": []
+}
